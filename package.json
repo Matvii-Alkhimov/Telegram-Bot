@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js",
-    "build": "parcel build bot.js --public-url/telegram-bot/"
+    "build": "parcel build bot.js"
   },
   "keywords": [],
   "author": "",
